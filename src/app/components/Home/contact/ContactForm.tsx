@@ -3,7 +3,7 @@ import React from 'react'
 function ContactForm() {
   return (
     <div className=' bg-[#140c1c] rounded-lg p-4 sm:p-10'>
-      <h1 className='text-cl text-2xl md:text-3xl lg:text-[2.5rem] font-bold'>Let's work together!
+      <h1 className='text-cl text-2xl md:text-3xl lg:text-[2.5rem] font-bold'>Let&apos;s work together!
       </h1>
       <p className=' text-white opacity-70 mt-3 text-sm lg:text-base'>Let&apos;s team up and create something great! I&apos;m all about building smooth, user-friendly web apps and love collaborating on new projects.
       </p>
