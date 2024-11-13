@@ -13,7 +13,7 @@ function About() {
       <div className=" w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 mt-20 items-center">
         {/* Text Content */}
         <div>
-          <h1 className="text-cl text-[26px] sm:text-3xl md:text-4xl lg:text-5xl font-bold">
+          <h1 className="gradient-text text-[26px] sm:text-3xl md:text-4xl lg:text-5xl font-bold">
             {aboutInfo.title}
           </h1>
           <p className=" mt-6 text-base text-white opacity-70">{aboutInfo.description}</p>
