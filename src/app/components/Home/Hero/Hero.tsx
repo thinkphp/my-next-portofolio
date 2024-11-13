@@ -13,8 +13,7 @@ function Hero() {
           <div>
             <h1 className=" text-2xl md:text-3xl lg:text-4xl mb-2 text-gray-300 font-semibold">I am {BaseInfo.name}
             </h1>
-            <h1 className=" text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-transparent bg-gradient-to-l from-gray-200 via-gray-500 to-gray-700 bg-clip-text
-             font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem]">
+            <h1 className="gradient-text text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem]">
               {BaseInfo.position}
             </h1>
             <p className=" mt-6 text-sm md:text-base text-white opacity-60 ">{BaseInfo.description}</p>
