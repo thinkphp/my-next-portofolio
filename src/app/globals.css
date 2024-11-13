@@ -7,10 +7,3 @@
     @apply relative text-base font-medium w-fit block after:block after:content-[''] after:absolute after:h-[3px] after:bg-yellow-400 text-white after:w-full after:scale-x-0 after:hover:scale-x-100 after:transition after:duration-300 after:origin-right
   }
 }
-
-@layer components {
-  .text-cl {
-    @apply text-transparent bg-gradient-to-l from-gray-200 via-gray-500 to-gray-700 bg-clip-text
-
-  }
-}
