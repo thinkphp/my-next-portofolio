@@ -19,7 +19,7 @@ function Footer() {
           <FaGithub size={24} className="text-white hover:text-gray-800 transition-colors duration-300" />
         </Link>
 
-        <Link href="https://www.linkedin.com/in/talha-jamal-/" target="_blank">
+        <Link href="https://www.linkedin.com/in/talhajamal-/" target="_blank">
           <FaLinkedin size={24} className="text-white hover:text-[#0A66C2] transition-colors duration-300" />
         </Link>
       </div>
