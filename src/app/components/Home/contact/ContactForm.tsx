@@ -14,7 +14,7 @@ function ContactForm() {
 
           <input type="text" name="name" required placeholder='John Doe' className=' flex-1 bg-black text-white px-6 py-3 rounded-md placeholder:text-gray-500 border-[1.5px] border-gray-500 outline-none w-full' />
 
-          <input type="email" name="email" required placeholder='Johndoe@example.com' className=' flex-1 bg-black text-white px-6 py-3 rounded-md placeholder:text-gray-500 border-[1.5px] border-gray-500 outline-none w-full' />
+          <input type="email" name="email" required placeholder='statescua@yahoo.com' className=' flex-1 bg-black text-white px-6 py-3 rounded-md placeholder:text-gray-500 border-[1.5px] border-gray-500 outline-none w-full' />
 
           <textarea name="message" required placeholder='Message'
             className='flex-1 bg-black text-white px-6 py-3 rounded-md placeholder:text-gray-500 border-[1.5px] border-gray-500 outline-none w-full'

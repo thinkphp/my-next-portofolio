@@ -7,7 +7,7 @@ function Footer() {
     <div className="pt-2 pb-8 bg-[#0f0715] border-t border-gray-400 shadow-xl ">
 
       <div className="text-white opacity-60 mt-3 text-center">
-        © 2024 Talha Jamal. All Rights Reserved.
+        © 2025 Adrian Statescu. All Rights Reserved.
       </div>
       <div className="flex justify-center items-center gap-6 mt-4">
 

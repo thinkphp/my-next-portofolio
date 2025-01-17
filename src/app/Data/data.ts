@@ -1,6 +1,6 @@
 export const BaseInfo = {
-  name: "Talha Jamal",
-  position: "Fronted Web Developer",
+  name: "Adrian Statescu",
+  position: "Full Stack Developer",
   description:
     "Web developer skilled in HTML, CSS, JavaScript, TypeScript, React, and Tailwind CSS, expanding expertise in Next.js and soon focusing on Python. Driven to bring creativity and technical depth to dynamic development roles.",
   ProfileImage: "/images/heroImg.png"
@@ -154,7 +154,7 @@ export const skillsData = [
 ];
 
 export const contactData = {
-  phone: "+92 309 2340179",
-  email: "talhajamal056@gmail.com",
-  address: "Karachi , Pakistan",
+  phone: "+40 12345678",
+  email: "statescua@yahoo.com",
+  address: "Swiss",
 };
