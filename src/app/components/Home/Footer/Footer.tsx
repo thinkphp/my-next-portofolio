@@ -11,15 +11,11 @@ function Footer() {
       </div>
       <div className="flex justify-center items-center gap-6 mt-4">
 
-        <Link href="https://www.facebook.com/profile.php?id=100086759149845" target="_blank">
-          <FaFacebook size={24} className="text-white hover:text-[#0866FF] transition-colors duration-300" />
-        </Link>
-
-        <Link href="https://github.com/TalhaJamal02" target="_blank">
+        <Link href="https://github.com/thinkphp" target="_blank">
           <FaGithub size={24} className="text-white hover:text-gray-800 transition-colors duration-300" />
         </Link>
 
-        <Link href="https://www.linkedin.com/in/talhajamal-/" target="_blank">
+        <Link href="https://www.linkedin.com/in/statescuadrian/" target="_blank">
           <FaLinkedin size={24} className="text-white hover:text-[#0A66C2] transition-colors duration-300" />
         </Link>
       </div>
